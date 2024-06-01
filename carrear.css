@@ -1,0 +1,195 @@
+*{
+    margin:0%
+}
+    
+header {
+   
+   background-color: black;
+   width:1300px;
+   padding:30px;
+   color:white;
+   padding-left: 100px;
+   
+}
+header a{
+    text-decoration: none;
+    color: white;
+}
+img{
+    position: absolute;
+    top:3px;
+    left:5px;
+}
+.nav-bar ul{
+   list-style: none;
+   background-color:black;
+   padding:0px;
+   margin:0px;
+   overflow: hidden;
+   position: absolute;
+   top:7px;
+   left:400px;
+}   
+.nav-bar ul a{
+    color:white;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-indent: 40px;
+}
+.nav-bar ul a:hover{
+    background-color: blueviolet;
+    border-radius: 22px;
+    
+}
+.nav-bar ul li{
+    float: left;
+}
+
+.image2{
+    top:1550px;
+    width:200px;
+    left:20px;
+}
+.four{
+    margin-top:760px;
+    margin-left:20px;
+}
+.class img{
+    position: absolute;
+    background-color: black;
+    width:1200px;
+    height: 600px;
+    padding:600px;
+}
+.line1{
+    background-color:aqua;
+    width:95px;
+    height:5px;
+    position:absolute;
+    margin-left:382px;
+    top:1540px;
+}
+.ourservices{
+    text-decoration: none;
+    position:absolute;
+    margin-left:380px;
+    top:1550px;
+    line-height: 30px;
+}
+.ourservices a{
+    text-decoration: none;
+}
+.line2{
+    background-color:rgb(248, 152, 27);
+    width:75px;
+    height:5px;
+    position:absolute;
+    margin-left:682px;
+    top:1540px;
+}
+.company{
+    position:absolute;
+    margin-left:680px;
+    top:1550px;
+    line-height: 30px;
+}
+.company a{
+    text-decoration: none;
+}
+.line3{
+    background-color:rgb(184, 250, 29);
+    width:75px;
+    height:5px;
+    position:absolute;
+    margin-left:880px;
+    top:1540px;
+}
+.resources{
+    position:absolute;
+    margin-left:880px;
+    top:1550px;
+    line-height: 30px;
+}
+.resources a{
+    text-decoration: none;
+}
+.line4{
+    background-color:rgb(250, 12, 24);
+    width:75px;
+    height:5px;
+    position:absolute;
+    margin-left:1150px;
+    top:1540px;
+}
+.followus{
+    position:absolute;
+    margin-left:1150px;
+    top:1550px;
+    line-height: 30px;
+}
+.whatsapp {
+    position:absolute;
+    margin-top:1608px;
+    margin-left:1100px;
+}
+.insta {
+    position:absolute;
+    margin-top:1608px;
+    margin-left:1170px;
+}
+.fb {
+    position:absolute;
+    margin-top:1608px;
+    margin-left:1240px;
+}
+.call {
+    position:absolute;
+    margin-top:1680px;
+    margin-left:1170px;
+}
+.linkedin {
+    position:absolute;
+    margin-top:1740px;
+    margin-left:1100px;
+}
+.utube {
+    position:absolute;
+    margin-top:1740px;
+    margin-left:1170px;
+}
+.twitter {
+    position:absolute;
+    margin-top:1740px;
+    margin-left:1240px;
+}
+.work h3{
+   margin-top: 200px;
+   margin-left: 250px ;
+   font-size: 24px;
+}
+.work p{
+    font-size: 20px;
+    margin-left: 80px;
+    margin-top:30px;
+    margin-bottom: 200px;
+}
+.work img{
+    margin-left: 700px;
+    margin-top:200px;
+}
+.join h3{
+    margin-top: 100px;
+    margin-left: 550px ;
+    font-size: 24px;
+ }
+ .join p{
+     font-size: 20px;
+     margin-left: 200px;
+     margin-top:20px;
+ }
+
+
+

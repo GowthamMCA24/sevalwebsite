@@ -1,0 +1,298 @@
+*{
+   margin:0%
+}
+   
+header {
+  
+  background-color: black;
+  width:1300px;
+  padding:30px;
+  color:white;
+  padding-left: 100px;
+  
+}
+header a{
+   text-decoration: none;
+   color: white;
+}
+img{
+   position: absolute;
+   top:3px;
+   left:5px;
+}
+.nav-bar ul{
+  list-style: none;
+  background-color:black;
+  padding:0px;
+  margin:0px;
+  overflow: hidden;
+  position: absolute;
+  top:7px;
+  left:400px;
+}   
+.nav-bar ul a{
+   color:white;
+   font-size: 20px;
+   text-align: center;
+   text-decoration: none;
+   padding: 15px;
+   display: block;
+   text-indent: 40px;
+}
+.nav-bar ul a:hover{
+   background-color: blueviolet;
+   border-radius: 22px;
+   
+}
+.nav-bar ul li{
+   float: left;
+}
+.contact{
+    padding-top: 60px;
+    margin-left: 100px;
+}
+.contact h3{
+    margin-left: 70px;
+    font-size: 24px;
+}
+.contact p{
+    font-size: 19px;
+    padding-top: 30px;
+}
+.image2{
+   top:1550px;
+   width:200px;
+   left:80px;
+}
+.four{
+   margin-top:1230px;
+   margin-left:80px;
+}
+.class img{
+   position: absolute;
+   background-color: black;
+   width:1200px;
+   height: 600px;
+   padding:600px;
+}
+.line1{
+   background-color:aqua;
+   width:95px;
+   height:5px;
+   position:absolute;
+   margin-left:362px;
+   top:1540px;
+}
+.ourservices{
+   text-decoration: none;
+   position:absolute;
+   margin-left:330px;
+   top:1550px;
+   line-height: 30px;
+}
+.ourservices h3{
+    margin-left: 20px;
+}
+.ourservices a{
+   text-decoration: none;
+}
+.line2{
+   background-color:rgb(248, 152, 27);
+   width:75px;
+   height:5px;
+   position:absolute;
+   margin-left:682px;
+   top:1540px;
+}
+.company{
+   position:absolute;
+   margin-left:680px;
+   top:1550px;
+   line-height: 30px;
+}
+.company h3{
+    margin-left: 0px;
+}
+.company a{
+   text-decoration: none;
+}
+.line3{
+   background-color:rgb(184, 250, 29);
+   width:75px;
+   height:5px;
+   position:absolute;
+   margin-left:880px;
+   top:1540px;
+}
+.resources{
+   position:absolute;
+   margin-left:880px;
+   top:1550px;
+   line-height: 30px;
+}
+.resources h3{
+    margin-left: 0px;
+}
+.resources a{
+   text-decoration: none;
+}
+.line4{
+   background-color:rgb(250, 12, 24);
+   width:75px;
+   height:5px;
+   position:absolute;
+   margin-left:1150px;
+   top:1540px;
+}
+.followus{
+   position:absolute;
+   margin-left:1150px;
+   top:1550px;
+   line-height: 30px;
+}
+.followus h3{
+    margin-left: 8px;
+}
+.change{
+    position: absolute;
+    top:0px;
+}
+.whatsapp {
+   position:absolute;
+   margin-top:1608px;
+   margin-left:1100px;
+}
+.insta {
+   position:absolute;
+   margin-top:1608px;
+   margin-left:1170px;
+}
+.fb {
+   position:absolute;
+   margin-top:1608px;
+   margin-left:1240px;
+}
+.call {
+   position:absolute;
+   margin-top:1680px;
+   margin-left:1170px;
+}
+.linkedin {
+   position:absolute;
+   margin-top:1740px;
+   margin-left:1100px;
+}
+.utube {
+   position:absolute;
+   margin-top:1740px;
+   margin-left:1170px;
+}
+.twitter {
+   position:absolute;
+   margin-top:1740px;
+   margin-left:1240px;
+}
+.class {
+   background-color: black;
+   width:1100px;
+   height: 1200px;
+}
+.form{
+    position: absolute;
+    left:700px;
+    top:130px;
+    padding:20px;
+}
+.form h3{
+    margin-left: 0px;
+    margin-top: 10px;
+
+}
+.form input{
+    padding-top: 15px;
+    margin-top: 15px;
+    width:200px;
+    color:white;
+}
+.box3{
+    position: absolute;
+    left:350px;
+    top:20px;
+}
+.form1 input{
+    width:200px;
+    padding-top:10px;
+    margin-left: 200px;
+}
+.form1 .box4{
+    margin-left: 280px;
+}
+.form1 .box5{
+    padding-top:80px;
+    width:500px;
+    margin-left: 80px;
+    margin-top:40px;
+}
+.form1 .button1{
+    width:60px;
+    padding-top:10px;
+    font-size: 15px;
+    padding-bottom: 10px;
+    position: absolute;
+    top:250px;
+    left:310px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border-radius: black;
+}
+.form1{
+    position: absolute;
+    top:400px;
+    left:650px;
+}
+.form input{
+    background-color:rgb(84, 248, 248);
+    color:black;
+    border-radius: 6px;
+    border-color:black ;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.form1 .box4{
+    background-color:lightgrey;
+    border-radius: 6px;
+    border-color: rgb(221, 6, 6);
+    color:white ;
+}
+.form1 .box5{
+    border-radius: 0%;
+    border-color: rgb(15, 165, 235);
+}
+.clientele{
+    position:absolute ;
+    top:800px;
+    left:200px;
+}
+.clientele h3{
+  color:red;
+  margin-left: 0px;
+}
+.clientele p{
+    color:gray;
+}
+.cognist{
+    position: absolute;
+    top:920px;
+    left:400px;
+}
+.client{
+    position: absolute;
+    top:940px;
+    left:100px;
+}
+.itech{
+    position: absolute;
+    top:950px;
+    left:700px;
+}
